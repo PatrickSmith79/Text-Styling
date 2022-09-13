@@ -1,0 +1,23 @@
+h1{
+    background-color: rgb(86, 232, 139);
+    color: rgb(12, 22, 22);
+    font-style:italic;
+}
+h1 span{
+    color:rgb(26, 26, 234)
+
+}
+
+
+h2{
+    background-color: firebrick;
+    color: rgb(64, 18, 120);
+    text-align: center;
+    text-decoration: underline;
+}
+h3{
+    background-color: rgb(255, 71, 212);
+    color: black;
+    text-align: right;
+}
+
